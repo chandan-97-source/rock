@@ -1,3 +1,3 @@
-Deprecated. Please instead use:
+Authenticity
 
 https://github.com/fpco/haskell.fpcomplete.com
